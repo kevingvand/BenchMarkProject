@@ -1,2 +1,3 @@
 c:\users\kevin\documents\visual studio 2012\Projects\BenchmarkAppCSharp\BenchmarkAppCSharp\bin\Debug\BenchmarkAppCSharp.exe.config
 C:\Users\Kevin\Source\Repos\GitRepository\BenchmarkAppCSharp\bin\Debug\BenchmarkAppCSharp.exe.config
+C:\Users\Kevin\Documents\GitHub\BenchMarkProject\BenchmarkAppCSharp\bin\Debug\BenchmarkAppCSharp.exe.config
