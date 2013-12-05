@@ -1,3 +1,14 @@
 c:\users\kevin\documents\visual studio 2012\Projects\BenchmarkAppCSharp\BenchmarkAppCSharp\bin\Debug\BenchmarkAppCSharp.exe.config
 C:\Users\Kevin\Source\Repos\GitRepository\BenchmarkAppCSharp\bin\Debug\BenchmarkAppCSharp.exe.config
 C:\Users\Kevin\Documents\GitHub\BenchMarkProject\BenchmarkAppCSharp\bin\Debug\BenchmarkAppCSharp.exe.config
+C:\Users\Kevin\Documents\GitHub\BenchMarkProject\BenchmarkAppCSharp\bin\Debug\BenchmarkAppCSharp.exe
+C:\Users\Kevin\Documents\GitHub\BenchMarkProject\BenchmarkAppCSharp\bin\Debug\BenchmarkAppCSharp.pdb
+C:\Users\Kevin\Documents\GitHub\BenchMarkProject\BenchmarkAppCSharp\obj\Debug\BenchmarkAppCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Documents\GitHub\BenchMarkProject\BenchmarkAppCSharp\obj\Debug\BenchmarkAppCSharp.Main.resources
+C:\Users\Kevin\Documents\GitHub\BenchMarkProject\BenchmarkAppCSharp\obj\Debug\BenchmarkAppCSharp.Properties.Resources.resources
+C:\Users\Kevin\Documents\GitHub\BenchMarkProject\BenchmarkAppCSharp\obj\Debug\BenchmarkAppCSharp.UserControls.ArrayTestPage.resources
+C:\Users\Kevin\Documents\GitHub\BenchMarkProject\BenchmarkAppCSharp\obj\Debug\BenchmarkAppCSharp.UserControls.DatabaseTestPage.resources
+C:\Users\Kevin\Documents\GitHub\BenchMarkProject\BenchmarkAppCSharp\obj\Debug\BenchmarkAppCSharp.UserControls.ObjectTestPage.resources
+C:\Users\Kevin\Documents\GitHub\BenchMarkProject\BenchmarkAppCSharp\obj\Debug\BenchmarkAppCSharp.csproj.GenerateResource.Cache
+C:\Users\Kevin\Documents\GitHub\BenchMarkProject\BenchmarkAppCSharp\obj\Debug\BenchmarkAppCSharp.exe
+C:\Users\Kevin\Documents\GitHub\BenchMarkProject\BenchmarkAppCSharp\obj\Debug\BenchmarkAppCSharp.pdb

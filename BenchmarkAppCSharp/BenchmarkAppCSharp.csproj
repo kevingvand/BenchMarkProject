@@ -52,6 +52,24 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UserControls\ArrayTestPage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\ArrayTestPage.Designer.cs">
+      <DependentUpon>ArrayTestPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\DatabaseTestPage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\DatabaseTestPage.Designer.cs">
+      <DependentUpon>DatabaseTestPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\ObjectTestPage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\ObjectTestPage.Designer.cs">
+      <DependentUpon>ObjectTestPage.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Main.resx">
       <DependentUpon>Main.cs</DependentUpon>
     </EmbeddedResource>
@@ -64,6 +82,15 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="UserControls\ArrayTestPage.resx">
+      <DependentUpon>ArrayTestPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\DatabaseTestPage.resx">
+      <DependentUpon>DatabaseTestPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\ObjectTestPage.resx">
+      <DependentUpon>ObjectTestPage.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
