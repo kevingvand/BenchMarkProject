@@ -17,7 +17,6 @@ namespace BenchmarkAppCSharp
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Main());
-            MessageBox.Show("hoi kevin");
         }
     }
 }
