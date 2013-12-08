@@ -30,10 +30,10 @@
         {
             this.tabControl1 = new System.Windows.Forms.TabControl();
             this.tabArrayTests = new System.Windows.Forms.TabPage();
-            this.tabDatabaseTests = new System.Windows.Forms.TabPage();
-            this.tabObjectTests = new System.Windows.Forms.TabPage();
             this.arrayTestPage = new BenchmarkAppCSharp.UserControls.ArrayTestPage();
+            this.tabDatabaseTests = new System.Windows.Forms.TabPage();
             this.databaseTestPage = new BenchmarkAppCSharp.UserControls.DatabaseTestPage();
+            this.tabObjectTests = new System.Windows.Forms.TabPage();
             this.objectTestPage = new BenchmarkAppCSharp.UserControls.ObjectTestPage();
             this.tabControl1.SuspendLayout();
             this.tabArrayTests.SuspendLayout();
@@ -64,6 +64,14 @@
             this.tabArrayTests.Text = "Array tests";
             this.tabArrayTests.UseVisualStyleBackColor = true;
             // 
+            // arrayTestPage
+            // 
+            this.arrayTestPage.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.arrayTestPage.Location = new System.Drawing.Point(3, 3);
+            this.arrayTestPage.Name = "arrayTestPage";
+            this.arrayTestPage.Size = new System.Drawing.Size(770, 530);
+            this.arrayTestPage.TabIndex = 0;
+            // 
             // tabDatabaseTests
             // 
             this.tabDatabaseTests.Controls.Add(this.databaseTestPage);
@@ -75,6 +83,14 @@
             this.tabDatabaseTests.Text = "Database tests";
             this.tabDatabaseTests.UseVisualStyleBackColor = true;
             // 
+            // databaseTestPage
+            // 
+            this.databaseTestPage.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.databaseTestPage.Location = new System.Drawing.Point(3, 3);
+            this.databaseTestPage.Name = "databaseTestPage";
+            this.databaseTestPage.Size = new System.Drawing.Size(770, 530);
+            this.databaseTestPage.TabIndex = 0;
+            // 
             // tabObjectTests
             // 
             this.tabObjectTests.Controls.Add(this.objectTestPage);
@@ -84,22 +100,6 @@
             this.tabObjectTests.TabIndex = 2;
             this.tabObjectTests.Text = "Object tests";
             this.tabObjectTests.UseVisualStyleBackColor = true;
-            // 
-            // arrayTestPage
-            // 
-            this.arrayTestPage.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.arrayTestPage.Location = new System.Drawing.Point(3, 3);
-            this.arrayTestPage.Name = "arrayTestPage";
-            this.arrayTestPage.Size = new System.Drawing.Size(770, 530);
-            this.arrayTestPage.TabIndex = 0;
-            // 
-            // databaseTestPage
-            // 
-            this.databaseTestPage.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.databaseTestPage.Location = new System.Drawing.Point(3, 3);
-            this.databaseTestPage.Name = "databaseTestPage";
-            this.databaseTestPage.Size = new System.Drawing.Size(770, 530);
-            this.databaseTestPage.TabIndex = 0;
             // 
             // objectTestPage
             // 
